@@ -1,4 +1,3 @@
-1. Project Title
 #E-Commerce Analytics SQL Project
 
 Created by: Preethi Thirumoorthy
