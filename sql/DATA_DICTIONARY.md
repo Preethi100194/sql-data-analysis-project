@@ -210,6 +210,4 @@ CREATE INDEX idx_products_category ON products(category);
 
 ---
 
-**Last Updated:** December 2024  
-**Version:** 1.0
 
